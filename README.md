@@ -75,8 +75,8 @@ The following NPM scripts are defined in `package.json` & may be executed with `
 ### Use Links Below to Access The Apps ###
 - n8n - http://localhost:5678/
 - PgAdmin - http://localhost:5050/
-- Express App - http://localhost:4040
-  - [GET] http://localhost:4040/api/healthcheck
+- Express App - http://localhost:8383
+  - [GET] http://localhost:8383/api/healthcheck
   - ngrok url will be displayed on the terminal and will change on server restart
   ![alt text](./assets/ngrok.png)
 
